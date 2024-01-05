@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Hello, my name is Vinothini Vijayakumaran and I am a undergraduate student at [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/) majoring in Computer Science. I possess practical experience in Java (Spring Boot) and JavaScript within the realm of backend development. Additionally, I have engaged in Research and Development activities focused on Deep Learning. My technology stack involves Java, Spring, Maven, MySQL, MongoDB. Besides programming, I have a fondness for dogs.🐕‍🐕‍
 
-- 🔭 I’m currently researching at the fashion editing with Stable Diffusion [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
+- 🔭 I’m currently researching at the fashion editing with Stable Diffusion.
 - 🔭 I’m currently working as Machine learning engineer at [ExentAI](https://www.exentai.com/)
 - 📫 How to reach me: vinothinivijayakumaran08@gmail.com
 - 😄 Pronouns: Programmer/Researcher/She/Her/Hers
-- 📝 [Resume](https://github.com/vinothini0806)
+- 📝 [Resume](https://drive.google.com/file/d/1sIIGHO1u2Nj44-tHCjmKEgdCPe8enWbE/view?usp=drive_link)
 
 **Languages and Tools:** 
 
