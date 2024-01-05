@@ -23,12 +23,9 @@ Hello, my name is Vinothini Vijayakumaran and I am a undergraduate student at [U
 - 😄 Pronouns: Programmer/Researcher/She/Her/Hers
 - 📝 [Resume](https://github.com/vinothini0806)
 
-**Connect with me:**
-
-
 **Languages and Tools:** 
 
-![Java](https://img.shields.io/badge/-Java-black?logo=Java&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=Java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-black?logo=spring&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
 ![Node](https://img.shields.io/badge/-Node-black?logo=nodejs&style=social)&nbsp;&nbsp;
