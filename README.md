@@ -42,15 +42,7 @@ Hello, my name is Vinothini Vijayakumaran and I am a undergraduate student at [U
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 
-**🗂️ Highlight Projects:**
 
-<a href="https://github.com/vinothini0806/micro-ecommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="micro-ecommerce" />
-</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinothini0806&count_private=true&hide=TeX&layout=compact)
 
