@@ -26,10 +26,10 @@ Hello, my name is Vinothini Vijayakumaran and I am a undergraduate student at [U
 **Languages and Tools:** 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-black?logo=spring&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
-![Node](https://img.shields.io/badge/-Node-black?logo=nodejs&style=social)&nbsp;&nbsp;
-![Pytorch](https://img.shields.io/badge/-Pytorch-black?logo=Pytorch&style=social)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
+![Pytorch]()&nbsp;&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?logo=Tensorflow&style=social)&nbsp;&nbsp;
 ![Wandb](https://img.shields.io/badge/-Wandb-black?logo=WandB&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
